@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Slave Resistance in Georgetown</name>
+    <description><![CDATA[This map geolocates runaway slave newspaper advertisements from the 18th and 19th centuries that mention the neighborhood of Georgetown in what is today Washington, D.C. This map was created by students in Professor Adam Rothman's History 099 Facing Georgetown's History class in February 2023 using advertisements drawn from the Maryland State Archives' Legacy of Slavery in Maryland Project. .]]></description>
+    <Style id="icon-1680-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1680-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1680-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1680-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1680-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1680-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1680-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1680-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1680-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1680-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1680-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1680-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1680-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1680-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1680-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1680-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1680-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1680-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1680-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1680-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-097138-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-097138-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-097138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-097138-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-097138-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>People who escaped in Georgetown</name>
+      <Placemark>
+        <name>Isaac, 1814-02-01</name>
+        <description><![CDATA[Thirty Dollars<br>Reward<br>Ranaway from Georgetown College, on Saturday night the 29th inst a Negro Man named ISAAC, about 23 years old quite black complexion, about 5 feet 8 inches high; had on when he went away a short coat of drab cloth, pantaloons of the same kind, fur hat & great coat made of thick drab coating and bound with ferreting - he carried with him a pair of blue cloth trowsers, [t]wo Russia linen shirts, an old hat and other articles of clothing not recollected, it is probable he may change his clothing - he has learned to read tolerably well, and it is likely he may have procured a written pass. It is supposed that he is gone to Pennsylvania; he was raised at Mrs Johnson's near Bryantown, Charles County. The above reward will be paid if secured in any Jail more than 50 miles from the District, and reasonable expenses paid if brought home, or twenty dollars if a shorter distance, by the subscriber Clerk of Georgetown College, District of Columbia.<br> John McElroy<br>February 1 - d/m<br>[Washington National Intelligencer, February 1, 1814]]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0719152,38.9076089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>William Leonard, 1841-09-03</name>
+        <description><![CDATA[25 Cents Reward - <br><br>Ran away from the subscriber, living in Georgetown, D.C. on the 29th of August, William Leonard, an apprentice to the cabinet-making business. He is a stout boy, 19 years old. He carried off a bundle of clothes consisting of a brown frock coat, blue roundabout, and several pairs of pantaloons. When spoken to, his face flushes up directly. I forewarn any person from harboring the said boy, as I will put the law in force against any such person. I understand he has gone to Winchester. <br><br>Joseph Birch, Sept 3, Georgetown]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0624775,38.9048338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Washington Olonie, 1860-08-03</name>
+        <description><![CDATA[One Hundred Dollars Reward.<br>THE ABOVE REWARD will be paid for the apprehension of servant man Washington – calls himself Washington Olonie – if taken without the limits of the District of Columbia, or fifty dollars if taken within said limits. Washington is about twenty-two years old, has a scar on one eye, about five feet ten or eleven inches in height. He was last employed at the Ebbett House, Washington, D.C., as waiter, and was last seen at my residence in Georgetown, D.C., on Tuesday, the 17th July. He must be secured in jail, so that I get him again. A.M. BISCOE, <br>aug 1 – Georgetown, D.C.]]></description>
+        <styleUrl>#icon-1680-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0624775,38.9048338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mary or Molly Adams 1857-08-25</name>
+        <description><![CDATA[Transcription: $700 reward--Ran away from the residence of Mr. Owen Carroll, near Beltzville in prince George's county, on Sunday night, August 9th, negro woman. MARY OR MOLLY ADAMS, aged about 21 or 22 years, stout, strong build, color black, full faced and short curled hair; walks very straight and quick. ]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8665744,38.7893473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jane, 1840-07-31
+</name>
+        <description><![CDATA[20 DOLLARS REWARD for 2 runaways.<br><br>Yellow woman JANE and Child, and black boy WASH. Jane is likely, and noted by having lost two of her upper fore teeth. She has been living with Mrs. Miller, boarding house keeper; her child is very bright, rising two years. Wash is of a chestnut color, low and thick built, weakness in one eye, thick and protruding under lips, fond of driving carts, aged 16 years, or thereabouts; once lived with Mr. Roach, and finally in Georgetown. Went away in April last. Any person taking up said negroes shall be rewarded. Those who harbor or hire them shall be punished. They are about the District.<br><br>july 31–3t<br>RICH’D B. LLOYD<br><br>[Washington (DC) National Intelligencer, July 31, 1840]]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0668923,38.9098506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ann Fenwick, 1845-03-27</name>
+        <description><![CDATA[“$50 Reward–Ran away from my farm, about the middle of January last, my servant woman ANN, who calls herself Ann Fenwick. She is about four feet six or seven inches high, very delicate and spare, color rather darker than that of the chestnut, countenance sour and forbidding. She looks down when spoken to, has thick lips and long mouth. I am inclined to think she is in Georgetown, as I have been informed she has relations there. I will give $50 if taken in the District of Columbia, $30 if taken in Prince George’s county, and $20 if taken in Charles county in either case she must be secured so that I get her again” <br>James R. Brent <br>[1845-03-27 Fenwick, Ann} ]]></description>
+        <styleUrl>#icon-1680-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0719152,38.9076089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ben 1857-07-23</name>
+        <description><![CDATA[$300 Reward--Ran away from the subscriber, three Negroes, Ben, Bap, and Romulus. Ben, aged about thirty years, copper color, about five feet five inches high, very stout, has an opening in his front teeth both above and below.                 I will give $300 for the three, or $100 for each, no matter where taken, if secured in jail, or brought home to me.                                                  JNO. D. BOWLING, july 23--d&ctf.             Aquasco, Prince George's County]]></description>
+        <styleUrl>#icon-1899-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8664222,38.7815952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dandridge 1841-02-24</name>
+        <description><![CDATA[Twenty dollars reward— ran away from the subscriber a mullato boy, named Dandridge, on the 9th of November last. He is about 5 ft high; hair nearly straight; has a small scar on his forehead, near the roots of the hair. He is 17 years old. He was seen about two weeks ago at the Car office in Washington, and in Georgetown the last week. He passes for the son of a free negro woman in Washington. All persons are forewarned from hiring him or giving him employment. He may endeavor to hire himself or get hired to someone living North. I will give the above reward for his apprehension.<br>Susan Turner, Alexandria]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0503278,38.8048461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Richard Nicolls, 1859-01-24</name>
+        <description><![CDATA[$100 Reward will be given for the apprehension and delivery to me here, or put in jail so that I get him again, my servant man DICK, (or "Richard Nicolls," as he calls himself,) who left my house on Wednesday morning last, 19th January, 1860. He is about five feet high, short, thick set, very black; wears moustaches and goatees; wide mouth, and his front teeth decayed; about 28 or 29 years of age; had on when he left home a gray coat and pantaloons of fulled cloth, drab cap, and a new pair of shoes. I will give $10 if arrested and delivered to me in Georgetown; $20 if arrested in Washington, county of Washington, or Fairfax county, Virginia; or the above reward of $100 if arrested out of the District of Columbia as above excepted. -P.T. Berry, Georgetown, D.C.]]></description>
+        <styleUrl>#icon-1680-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0636972,38.9054157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hagar, 1850-05-28</name>
+        <description><![CDATA[100 Dollars Reward–Ran away from the subscriber at Georgetown, on Sunday night, the 26th instant, a negro woman named Hagar. <br><br>She is about thirty-five years of age, 5 feet 4 inches in height, stout and fat, dark complexion, has good teeth, and a pleasant countenance.<br><br>$50 reward will be given if apprehended in the District of Columbia, or $100 if taken elsewhere, and secured so that I can get her again. 	All reasonable expenses will be paid.<br><br>	may 28–3t	W.B. Boggs]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0722585,38.9076089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John and Lewis 1842-10-18</name>
+        <description>Two Hundred Dollars Reward. – Ran away from the subscriber on the night of the 8th October instant, my two servants John and Lewis; they are brothers. John is about twenty three years of age, near six feet high, stout and well made; is a first-rate house servant; by trade is a white-washer; he is a mulatto, perhaps may be called copper colored; his voice is strong and speaks pretty quick. Lewis is two years younger, about five feet six or eight inches high, brighter in color than John; stammers very much at times; is also stout. They have each a good suit of clothes, but color not recollected. It is very probable that they have forged free papers; they are both quite intelligent, having been much employed as waiters in genteel families. I will give the above reward for both, if taken and secured so that I get them again; or one hundred for either if taken in a non-slaveholding State; or half the amount if taken in Maryland. [oct 18] [John Harry, Georgetown, D.C.]</description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0624775,38.9048338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frank Douglass 1842-10-28</name>
+        <description><![CDATA[One Hundred and Fifty dollars reward. Ran away from the subscriber, my two servants, Henry Chase and Frank Douglass.<br>Henry was last seen on Sunday evening, the 23rd instant: his color is black, though not very dark, 28 years of age, about 5 feet 7 or 8 inches high, tolerably stout, no particular mark recollected, except that he has been afflicted with hernia, though he has been apparently cured. He has been several years the Russian Minister’s coachman; has no doubt a variety of good clothing; he pretends to be a methodist, is a very sensible fellow, and his language is more correct than that of a large portion of negroes. <br>Frank has not been seen since the 17th instant, is a mulatto and younger brother to the two servants, John and Lewis, who absconded on the night of the 8th instant, is about 18 or 19 years of age, remarkably smart, a very artful and bad fellow, has been accustomed to serve in boarding houses, was last employed on board the steamer Augusta, Captain Rogers, has good clothing, but kind and quality not known. I will give for the apprehension of Henry, if taken in Maryland, fifty dollars, and if taken in a non-slave holding state one hundred dollars, and one-half the amount for Frank; provided they are so secured so that I get them again, and reasonable charges added if brought home to me. <br>John Harry, Georgetown, D.C.                                     Washington (DC) National Intelligencer]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0628852,38.9051838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bap, 07/23/1857</name>
+        <description><![CDATA[$300 Reward- Ran away from the subscriber, three Negroes, Ben, Bap and Romulus.Ben, aged about thirty years, copper color, about 5 feet 5 inches high, very stout, has an opening in his front teeth both above and below. Bap, copper color, about 32 years old, about 5 feet 0 inches high, has very thick lips. These two negroes went off in January last, have been seen about Good Hope, Prince George’s county, and in Washington City and Alexandria. Romulus, black, about forty years old, 5 feet 10 inches high, shows his teeth when spoken to. He went off in March, and is well known in Washington and George-town, and has a wife at Mrs. Hutchin’s’s, St. Mary’s county.<br>	I will give $300 for the three, or $100 for each, no matter where taken, if secured in jail or brought home ?hom? To me. <br>									JNO. D. Bowling <br><br>	July 23- D&etf 					Aquasco, Prince George’s County ]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8721989,38.7853594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Henry Chase, 1942-10-28</name>
+        <description><![CDATA[ONE HUNDRED AND FIFTY DOLLARS REWARD.––Runaway from the subscriber, my two servants, HENRY CHASE and FRANK DOUGLASS.<br>	Henry was last seen Sunday evening, the 23rd instant; his color is black, though not very dark, 28 years of age, about 5 feet 7 or 8 inches high, tolerably stout, no particular mark recollected, except that he has been afflicted with hernia, though he has been apparently cured. He has been several years the Russian Minister’s coachman; has no doubt a variety of good clothing; he pretends to be a Methodist, is a very sensible fellow, and his language is more correct than that of a large portion of negroes. <br>Frank has not been seen since the 17th instant, is a mulatto and younger brother to the two servants, John and Lewis, who absconded on the night of the 8th instant, is about 18 or 19 years of age, remarkably smart, a very artful and bad fellow, has been accustomed to serve in boarding houses, was last employed on board the steamer Augusta, Captain Rogers, has good clothing, but kind and quality not known. I will give for the apprehension of Henry, if taken in Maryland, fifty dollars, and if taken in a non slaveholding State one hundred dollars, and one-half the amount for Frank; provided they are so secured so that I get them again, and reasonable charges added if brought home to me. JOHN HARRY, Georgetown, D.C.]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0722585,38.9076089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>William Martin, 1842 -11-01 </name>
+        <description><![CDATA[One Hundred Dollars Reward. - Runaway from the subscriber on the night of the 27th instant negro man Bill, who calls himself William Martin. He was generally dressed, is about five feet eight inches or nine inches high, of black color, but had a pleasant countenance. Bill has been employed by me in the feed business as cartman, and has gone off without the least provocation. I will give the above reward if taken and secured, and I will get him again. <br><br>Nov 1 - 6t 								William H. EDES,<br>									 Georgetown, D.C ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0690291,38.9077341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>William Hall, 1842-10-31</name>
+        <description><![CDATA[ONE HUNDRED AND FIFTY DOLLARS REWARD. — Ran away from the subscriber, residing in Georgetown, D. C. on the night of the 27th instant, negro man WILLIAM, who calls himself William Hall, about thirty years of age, 5 feet 9 or 10 inches high, nearly black, stout and well made, with a scar on his left cheek bone and full face. Had on when he left a black cloth overcoat, black dress coal and pantaloons, and new common fur cap. I will give the above reward if taken in any free State, or one hundred dollars if taken in the State of Maryland, or fifty dollars if taken in the District of Columbia, and secured so that I get him again.<br>oct 31 				J. Y. YOUNG, Georgetown, D. C.]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0679105,38.908728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Perry Claxson 1858-11-17 </name>
+        <description><![CDATA[Ran away from the subscriber, living in Georgetown, D.C., on Monday morning, Nov. 1st, 1858, my NEGRO BOY, PERRY CLAXSON, about 24 years old, five feet eight inches high, dark complexion, rather down look, and easily detached when examined; shows the white of his eyes when spoken to. He took nothing with him but what he had on every day clothing. <br>I will give $200 if taken in any slaveholding State, and $300 if taken in any free State; in all cases to be placed in jail so that I can get him again, or brought home. John M. Williams. n17-4wl.  ]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0656982,38.9094504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lucy, 1857-08-25</name>
+        <description><![CDATA[$700 reward---Ran away from the residence of Mr. Owen Carroll, near Beltsville, in Prince George’s county, on Sunday night, August 9th, negro women.<br>Lucy, aged about 17 years, medium-sized, color dark chesnut, very intelligent countenance , and pleasant when spoken to. Also, negro man.]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -76.6121893,39.2903848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John, 1842-10-18</name>
+        <description><![CDATA[TWO HUNDRED DOLLARS REWARD. -Ran away from the subscriber on the night of the 8th October instant, my two servants JOHN and LEWIS; they are brothera. John is about twenty three years of age, near six feet high, stout and well made; is a first-rate house servant; by trade is a white-washer; be is a mulatto, perhaps may be called copper colored; his voice is strong and speaks pretty quick. Lewis is two years younger, about five feet six or eight inches high, brighter in color than John; stammers very much at times; is also stout. They have each a good suit of clothes, but color not recollected. It is very probable that they have forged free papers; they are both quite intelligent, having been much employed as waiters in genteel families. I will give the above reward for both if taken and secured so that I get them again; or one hundred for either if taken in a non-slaveholding State; or half the amount if taken in Maryland. <br>oct 18-cpif<br>JOHN HARRY. <br>Georgetown, D.C.]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.070361,38.9086326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moses Wood. 1858-07-30</name>
+        <description>$500 REWARD. - Absented himself, on Sunday evening, the eleventh instant, from the service of N. [NAME], Esq., on East F. Street, Washington City, to whom he had been hired, a negro man named MOSES WOOD, aged about twenty-five years. Complexion dark brown, large flat nose, stout made, and is about five feet six inches in height, speaks slow when questioned and is polite in his manners. I will give the above reward for his apprehension and delivery to me in the District of Columbia, or secured in jail so that I get him again. - Geo. W. Eiscoe, Georgetown, D.C. </description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0057581,38.8819817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Richard Edwards, 1849-06-08</name>
+        <description><![CDATA[Daily Nat’l Intelligencer, 8 June 1849<br>One Hundred Dollars Reward —Left my residence, on Sunday morning, the 3d instant, my coloured man, RICHARD EDWARDS, (answers to the name of Dick,) with the intention, as he alleged, to see his sick mother, who lives at Mr. Waters’s, near Brookville, Montgomery county, Maryland. He was seen on the Brookville road about ten o’clock on Sunday morning. He is about twenty-seven years of age, five feet seven inches in height, a little round shouldered, answers politely when spoken to kindly, but extremely sullen and stubborn when displeased; complexion a shade or two darker than copper. He generally wore whiskers, and had them on when he left. Mouth and nose large, teeth good, countenance intelligent. When he left home was dressed in black cloth pantaloons, tweed frock coat, with buttons representing different hunting scenes, and cap, believed to be fur. He had with him also a dress coat of black cloth. <br>	I will give one hundred dollars to anyone that will arrest him and have him lodged in some jail, so that I may recover him. <br> ALEXANDER SUTER. <br>Georgetown, June 7, 1849							June 8 — 008wap ]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0624775,38.9048338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Benjamin Herrod 1857-11-14</name>
+        <description><![CDATA[$150 reward - Ran away from subscriber in Georgetown, D.C., on Saturday, November 7th, my negro man Ben, who calls himself Benjamin Herrod. He is supposed to be forty years of age, about 5 feet 10 inches high, dark in his appearance, with a downcast look, round-shouldered and large built. He had with him a thick black pilot cloth overcoat and an old white hat-other articles of clothing not remembered.-The above reward will be given if taken and lodged in jail so they I can get him again. <br><br><br>Joshua Bateman.]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0652405,38.9109325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jacob 1842-11-03</name>
+        <description>ONE HUNDRED DOLLARS REWARD. — Ran away from the subscriber, living in Georgetown, D.C., on Saturday night last, a negro man named JACOB, about 21 years of age, upwards of 6 feet high, pleasant countenance and good looking, a good set of teeth, is very shrewd and intelligent, very strong and active, no particular marks recollected. He was raised in Washington county, Maryland, and will probably make for that neighborhood, and thence to Pennsylvania. He took with him a fine cloth coat, dark color, perhaps invisible green, a pair of drab pantaloons, two vests, of worsted or silk and cotton, one of them striped, a blouse summer coat, and a pair of summer pantaloons, lead color, of striped drilling, a roundabout and pantaloons of cabinet gray working cloths. He is said to have been seen in a suit of mariner’s clothes on the night he absconded. He with seven others broke from confinement in the city, and are probably in company. The above reward will be paid if taken out of the District of Columbia, and reasonable charges added if delivered to me in Georgetown. [Balt, Sun 3t] JOHN HARRY Georgetown, D.C.</description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.069928,38.9072129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Isaac, 1842-11-02</name>
+        <description><![CDATA[FIFTY DOLLARS REWARD. — Ran away from the <br> employ of George Shoemaker, in Georgetown, D.C. on <br>Thursday night last, negro ISAAC. Isaac is about twen’y-four <br>years of age, about five feet eight or ten inches high, middle sized, <br>and rather likely, dark complexion, and has a scar on his fore-<br>head, occasioned by the kick of a horse, on which side not recol-<br>lected. It is supposed he went off in company with several others.<br> The above reward will be given for his apprehension and be-<br>ing secured so that the owner can get him again.<br>                                  JOHN WATERS,<br>nov 2—eo71     Agent for Henrietta Dawson]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0609326,38.9059025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lewis Owens, 1850-08-09</name>
+        <description><![CDATA[$50 Reward<br>Ranaway from the subscriber, living near Frederick, on the Georgetown road, on the night of the 31st July, a Negro Man, <br>Named<br>Lewis Owens, <br>about 30 years of age, about 6 feet high, copper colour, sharp face, and naked forehead; had on when he left a pair of Cotton-twilled Pants, Straw Hat, and Shoes, I will give the above reward of $50 if taken out of the State, or $25 if taken in the State, and lodged in Frederick County Jail. <br>August 9<br>David Rest]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0660858,38.908733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lucy 1845-02-08</name>
+        <description><![CDATA[RAN AWAY, on Tuesday, the 4th instant, from the subscriber, in Georgetown, a colored girl, about 12 years old, dark yellow color, named LUCY; clothed in linsey woolley frock and sunbonnet, and had other clothing with her, which is not recollected.<br>	The subscriber will give five dollars for her recovery, on being delivered to him. <br>								JOSEPH RADCLIFFE, Sen.<br>Feb 8—--3t 									Georgetown. ]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0665728,38.9077022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John Lee, 1859-12-20</name>
+        <description><![CDATA[NOTICE.<br>WAS committed to the jail of Fredrick county, on the 27th day of November, 1859, as a RUNAWAY, a dark mulatto man, who calls himself<br>JOHN LEE.<br>He is about 28 or 30 years of age, 5 feet 10 inches high; his face is strongly marked with small pox; had on when committed a mixed lloscy coat and pantaloons, coarse shoes and hat. Says he is a slave and belongs to D. C. Murdock, of Georgetown, D.C. The owner, if any, is hereby requested to come and have him released, he will otherwise be discharged according to law. JOS. N. ROBERTS,<br>nov 29-4t Sheriff of Fred’k co., Md. ]]></description>
+        <styleUrl>#icon-1680-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0703493,38.9077502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bill M Schub, 1853-07-26</name>
+        <description><![CDATA[NOTICE<br>RANAWAY from the [illegible] Plaza (?) near Georgetown Market House, a NEGRO BOY, named Bill Schub. He is Black, has large (?) eyes and mouth, is 10 or 12 years old. All persons (?) are forewarned from employing or harboring (?) the said (?) boy, or have any dealings with him withstanding (?) the penalty of the law. I will give a suitable (?) reward for the return of the said boy, or any information so that I can get him.<br>July 26 <br>Ann Eliza Hastings [Washington DC (DC) Evening Star, July 26, 1853]]]></description>
+        <styleUrl>#icon-1680-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0609855,38.9039339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John More, 1842-11-03</name>
+        <description><![CDATA[ONE HUNDRED AND FIFTY DOLLARS REWARD.— Ran away from the subscriber, residing in Georgetown, D. C., on the night of the 24th October, negro man JOHN, who calls himself JOHN MORE, about 28 years of age, six feet high, very dark visaged, stammers somewhat occasionally, reads and writes well, and is a good mathematician; is a sagacious, shrewd fellow; a professor of religion, and an occasional exhorter. His clothes cannot be described, as he furnished himself amply. <br>I will give the above reward if taken in any free State, one hundred if taken in Maryland, or fifty dollars if taken in the District, and secured so that I get him again. <br>Nov 3 -dlwdc<br>Peregrine Warfield. ]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0689766,38.9067731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dudly Wilson, April 20, 1849</name>
+        <description><![CDATA[Daily National Intelligencer, 20 April 1849<br>Five dollars reward. Ran away from, the residence of Mr. A. Ray, north of the city of Washington, where he was hired, a bright mulatto boy, about ten years of age, named DUDLEY WILSON. He is no doubt lurking about Washington or Georgetown. To any one who will deliver him into the hands of the subscriber, Capitol Hill, the above reward will be paid.<br>H. R. MARYMAN.<br>ap 20—Staw2w]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0625272,38.9088315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wash and Jane, 1840-07-31</name>
+        <description><![CDATA[20 Dollars Reward for 2 runaways. –Yellow woman Jane and Child, and black boy, Wash. Jane is likely, and noted by having lost two of her upper fore teeth. She has been living with Mrs. Miller, boarding-house keeper, her child is very bright, rising two years. Wash is of a chestnut color, low and thick built, weakness in one eye, thick and protruding under lips, fond of driving carts, aged 16 years, or thereabouts; once lived with Mr. Roach, and finally in Georgetown. Went away in April last. Any person taking up said negroes shall be rewarded. Those who harbor or hire them shall be punished. They are about the District.<br>July 31–3t	RICH’D B. LLOYD                              [July 31, 1840 | Washington (DC) National Intelligencer]]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0674557,38.9066539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jerry Ogle, 1857-12-03 
+</name>
+        <description><![CDATA[RAN AWAY FROM SERVICE In Georgetown, Negro man Jerry Ogle. Said negro is about fifty years of age, dark complexion, 5 feet 8 or 9 inches tall, and quite erect. I will give $100 if taken in the State of Maryland. or $150 if taken in a free State ; in each case to be secured in jail so I get him.<br><br>J.W. LYONS, Georgetown. <br>nov 14–oolw&2aw3w [EaltSun]]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0705468,38.9075475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John Eblis and Dick Generee 1850-07-01</name>
+        <description><![CDATA[$400 REWARD.--Ranaway from the subscriber, near Upper Marlboro, Prince George’s county, Maryland, on Saturday, June 8th, two negro men, one calling himself JOHN EBLIS, and the other DICK GENEREE. John is about 23 years old, of copper color, 5 feet 8 or 9 inches high, has a scar on the right cheek, no other marks recollected, and has a variety of clothing. He has a free brother living in Georgetown, where it is supposed he is lurking, and a free mother near Mr. Palmer’s, Prince George’s county, Maryland.<br>	Dick is about 26 years old, black, 5 feet 10 or 11 inches high, speaks quick when spoken to, has lost three front teeth, no marks recollected, and has a variety of clothing.<br>	I will give $150 each, if taken and secured in jail so I get them again. <br>SARAH ANN TALBURTT,<br>Administratrix of Jesse Talburtt, deceased. <br>jah —eo7t]]></description>
+        <styleUrl>#icon-1680-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -76.7496909,38.8159473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>People who escaped outside Georgetown</name>
+      <Placemark>
+        <name>Austin, 1842-08-10</name>
+        <description><![CDATA[FORTY DOLLARS REWARD.–Ran away from Washington city, sometime in the month of July last, a negro man named AUSTIN, who is about 54 or 55 years old, very black, about six feet high, and is a little bent. I do not recollect what description of clothes the said negro man had. It is supposed Austin has attempted to make his way to Pennsylvania, if he is not lurking in and about Washington, Georgetown, or Alexandria. Austin was permitted by me to visit his wife, a slave of Mr. Thomas Booth, living in the city of Washington, in the month of May last, and up to within a few weeks has been with Mr. Booths; but recently, I understand, has not been seen there. I will give a reward of twenty five dollars if apprehended within the city of Washington, Georgetown, or Alexandria, or the adjoining counties of Maryland or Virginia, and secured; but if apprehended elsewhere and secured, I will give the above reward of $40. <br><br>aug 10–			eod                                    G.  Combs.]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.02404,38.9021104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adam, 1777-02-04</name>
+        <description><![CDATA[Four Pounds Reward,<br>Besides reasonable charges<br>Ketocton Creek, Frederick County, Feb. 4, 1777. <br>A Negro man, named ADAM, having absented himself from my plantation I hereby offer the above reward for apprehending him. ----He is a stout made fellow, about 28 years of age, 5 feet 8 or 10 inches high, and has lost the under part of one of his ears; he is very civil except when in liquor. He lived some years near George-Town, Montgomery county, was hired (?) in Charles County, and is thought now to be in this last or else in or near the city of Philadelphia. <br>William Sabatier ]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.1052328,38.5189522,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam, 1834-09-20</name>
+        <description><![CDATA[Fifty Dollars Reward.<br>Ran away from the subscriber on the 5th of August, a negro lad about 20 years of age, named SAM, rather dark and chunkey made, his ears are bored and have either lead or wire rings in them. He was seen on the 17th going to the Eastern Branch Bridge, I expect on his way to Georgetown, where his father and mother live, both of whom are free, the former calling himself Wm. Williams. Any person who will apprehend the said negro and secure him so that I get him again, or bring him home will receive the above reward.<br><br>															Thomas Berry,<br>														Oxon-Hill, opposite Alexandria<br>	Sep 20 – eo3w]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -76.9897542,38.8204712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salem, Virginia Beverly 1843-09-28</name>
+        <description><![CDATA[One hundred dollars reward-<br>Ran away from the plantation of John Baker, Esq, near Salem, Fauquier county, Virginia, a negro named Beverley, belonging to the heirs of Henry Hoe, Esq, late of that county.<br>Beverley is about 40 years old, very black, and about 6 feet 8 or 10 inches high. He has lost the end of the forefinger to the first joint on the right hand. He went off in company with another negro man, the poverty of Mr. Baker, and probably also with a white can. I will give $30 reward for the apprehension of Beverley, if taken in Fauquier county; $60 if taken out of that county and within the State of Viginia; or $100 if taken out of the State, provided that in either case he is so secured that I may recover him. If Mr. Baker has offered a reward aslo for Beverley’s apprehension, the person taking will be entitled either to that or this, but not both<br><br>Sept 28-ctf H. Lufborough<br> Georgetown, D.C.]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -80.0546982,37.2934297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Matilda Hammon, 1843-10-19
+</name>
+        <description><![CDATA[One Hundred Dollars Reward – Ran away from my farm in Montgomery county, Md., without any provocation, on the 15th October, a young yellow woman, who calls herself Matilda Hammon, of medium size and likely appearance, about eighteen or twenty years of age. She took off with her a quantity of clothing, so her dress cannot be described. She has a small scar on her forehead, as well as recollected. I feel confident she will make for Georgetown, D.C., where she has a mother named Priss Hammon, belonging to Jenkin Thomas, and an uncle by the name of Henry Contee, belonging to the heirs of Clement Smith; she also has some connexions in Washington. I will give the above reward if taken in a free State, twenty-five if taken in the District or elsewhere, except Montgomery, and ten dollars if taken in Montgomery county; and in either case she must be brought home to me or placed in jail so that I get her again.<br>Nicholas Brooke]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.2405153,39.1547426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Henrietta, 1845-06-04</name>
+        <description><![CDATA[$25 REWARD.- Ran away from the subscriber, living near Bladensburg, Prince Georges' county, Maryland, about the 25th of April, a negro woman, Henrietta, about nineteen years of age.  She is a bright mulatto, very stout, speaks low, and has rather a down look when spoken to.  I purchased her from the estate of Francis Bcall, deceased, in the neighborhood of Vansville, where her relatives now live.  She has also a brother and sister in Georgetown.  I will give the above reward whenever secured in jail or delivered to me.     june 4 --eo2w         A.B.BERRY.]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -76.9338631,38.9392779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harriett Williams, 1842, 09/10</name>
+        <description><![CDATA[50 DOLLARS REWARD.- Ran away from the subscriber, living at Vansille, Prince George’s County, Maryland, on the 12th day of August last, negro woman, Harriett Williams, aged 30 years or upwards, a likely, well-proportioned woman, of a dark copper color; lively, animated countenance; quick to reply, but when interrogated stammers considerably; and has one or two flesh moles on her left cheek. Clothing carried with her: a striped linsey frock, plaid cotton frock, and several calico frocks, straw bonnet, &c. She was lurking about Washington, where she has a number of acquaintances, until the negro camp meeting, held near Washington on the 28th August, at which time she was at the camp. There is no doubt that she is still in Washington or Georgetown.<br>	When apprehended and brought home, or secured so that I get her again, I will pay the following reward: $15 if taken in the county, $25 if taken in the District of Columbia or any county in the state, and $50 if taken out of State or District. <br>Septimus J. Cook]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8955291,39.0434427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ned Brannum 1856-07-10</name>
+        <description><![CDATA[TWO HUNDRED DOLLARS REWARD. Ran away on Saturday night, the 5th instant, from the subscriber, residing in Rockville, Montgomery county, Md.. NED BRANNUM, a Slave, 28 years of age, about five feet eight inches high, bright mulatto, thick suit of straight black hair, very little beard, grey eyes and light colored eye-brows. He is quite intelligent and has a fine address. He is well acquainted in Washington city, D.C.. and is doubtless aided by Abolition influence to reach a free state, most likely in a vessel freighted with coal from Georgetown, D.C.<br>	I will give the above reward if he is taken and se-cured so that I get possession of him again.<br><br>J10-2W? HENRY HARDING]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.1509553,39.0841307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>George Hamilton. 1846-06-23</name>
+        <description>$100 reward - Runaway from the subscriber living near Queen Anne, Prince George’s county, Maryland, on Monday, June 22nd, my house servant GEORGE, calling himself George Hamilton. He is about 30 years of age, of a dark complexion, thick lips, about five feet eight or nine inches high, and is very polite when spoken to. He has a wife at doctor Grafton Tyler’s, in Georgetown, D.C., and it is probable he may lurk around there for some time. I will give the above reward for his return, if taken in any non-slaveholding state, and $50 if secured in Maryland, Virginia, or the District of Columbia, so that I get him again. - John B. Mullikin </description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8720961,38.7849211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frank Tillman (1850-04-20)</name>
+        <description><![CDATA[$50 Reward. - Ranaway from the subscriber, on the 17th instant, a negro man, named FRANK TILLMAN. He had on when he left home a drab frock coat, and pantaloons of the same material; height about five feet six inches, and aged about 19 years; had under the right jaw a scar from scrofula. He was seen on this side of the Great Falls on the Potomac river, on his way to Georgetown.<br>	A reward of fifty dollars will be given for his recovery, if taken out of Montgomery county, Maryland, so that the subscriber can obtain him, and twenty-five dollars if taken in the county<br> JOHN P. BOUIC,<br>	ap 20–3t						 Poolsville, Montgomery county, Md.<br>[April 20, 1850 - National Intelligencer]]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.417189,39.1467127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mary Smith 1857-02-17</name>
+        <description><![CDATA[Fifty dollars reward– Ran away from the subscriber, living near Benning’s Bridge, in the District of Columbia, on the 24th of December, 1856, negro girl Mary Smith. Mary is about twelve years old, dark color, and speaks indistinctly. Her father and mother, free negroes, live in Georgetown. I will give the above reward if taken in the District or Maryland, or one hundred dollars if taken in any non-slaveholding State. In either case she must be secured in jail or brought home so that i get her again.<br>	Feb 14–co2w 						John P. Waring]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0237776,38.913965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>William Giles 1843-09-09</name>
+        <description><![CDATA[Notice - Was committed to the Jail of Frederick county on the 4th inst. As a runaway, a black man who calls himself William Giles; he is about twenty two years of age, five feet four inches high, has a scar on his forehead, about his right eye; had on when committed a striped cotton roundabout, white twilled cotton pantaloons and palm leaf hat, says he belongs to Mr. Dick of Georgetown, D.C. The owner, if any, is hereby requested to come and have him released, he will otherwise be discharged according to law.<br><br>GEORGE RICE, Sheriff of Frederick County, Md.<br>se 9 colt [1843-09-09 American and Commercial Daily Advertiser]]]></description>
+        <styleUrl>#icon-1680-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -77.4139468,39.3651448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Davy Green 09/27/1855</name>
+        <description><![CDATA[TWO HUNDRED DOLLARS REWARD. <br>Ran away from the subscriber, living near Upper Marlboro, Prince George’s county, Md.. on the 16th of September, my negro man DAVY GREEN, about 5 feet 6 inches high, 27 years of age, a dark mulatto, and rather slender made; has a good deal of hair around his face, a very down look, and easily confused when spoken to. He has relatives in Washington and Georgetown, D.C., and may try to hire himself there or make his way to a free State. He wore away a black frock coat; other clothing of cotton osnaburgs. I will give $200 if caught out of the State of Maryland, and $100 in the District of Columbia or the adjoining counties, and $40 in this county. He must be secured in either case so I may get him again. WILLIAM J. BERRY.<br><br>1855-09-27 Baltimore Sun – Davy Green]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -76.7506761,38.8208684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tom 03/04/1854</name>
+        <description><![CDATA[$100 REWARD. - Ran away from the subscriber, living near Bealeton, on the Orange and Alexandria Railroad, Fauquier county, Virginia, on the 1st of March, 1854, a negro man named TOM, about 25 or 26 years of age, and about five feet ten or eleven inches high, well-mad, walks erect, but a little knock-kneed, of a rather tawny complexion, with a space between his front teeth and a scar on his face near his mouth, occasioned probaby by a burn. He has on a low-crowned glassed hat, a good deal worn, and other clothing not recollected.<br>	Tom is an artful fellow, and I have no doubt is making his way to the North, I think by Washington or Georgetown, and will cross at one of the bridges leading to those places. <br>	I will give $25 if taken in the county, $50 if taken out of the county and in the State of Virginia, and the above reward of $100 if taken out of the State. In either case to be secured in jail so that I can get him again, or delivered to me. <br>	JOHN G. BEALE,<br>	Bealeton, Fauquier county, Va.]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.767773,38.5830443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Henry 1834-01-04</name>
+        <description><![CDATA[One Hundred Dollars Reward. – Ran away from the subscriber, on Monday the 2d instant, Negro Boy Henry; he is about 18 or 19 years of age, 5 feet 6 or 8 inches high, stout made, of a yellow or copper color, and of a [pleasant?] countenance. The clothing that he wore off was a drab roundabout and pantaloons, of domestic fulled cloth, coarse shoes, lately half-soled and nailed, and a brown cloth cap. I will give the above reward. I care not where taken, so he is secured in jail or delivered to me, living in Montgomery county, Maryland, near Georgetown, D.C. and all reasonable expenses paid. <br>jan 4–eolw R. Williams]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.2405153,39.1547426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laura, 1841-08-25</name>
+        <description><![CDATA[FIFTY DOLLARS REWARD.--Ran away from her owner, in this city, on Thursday, the 12th of the present month, negro woman LAURA. Said negro woman is about the medium size, 19 years of age, of a light black complexion, low forebend, small eyes, round face, small breasts, and has remarkably large feet and ankles: she also lisps a little, particularly when embarrassed by questions. She is an accomplished housemaid and seamstress, and will probably change her name, and endeavor to get employment in that line. She has an aunt in Georgetown belonging to Mr. Henry Matthews, and another relation living with Mr. Berry of that place. She also has many acquaintances in Washington.<br>The above reward will be given for her apprehension if taken beyond the limits of the District of Columbia; or twenty-five dollars if taken within the District and delivered to the subscriber in Washington.<br>							T. C. Wilson,<br>Constable. <br>aug 25—dtf]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0368707,38.9071923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>William Carter, 1851-07-02</name>
+        <description><![CDATA[ONE HUNDRED DOLLARS REWARD. The above reward will be given for the apprehension and delivery to me of TWO NEGRO MEN, who escaped from the Jail of Prince George's county on the 29th of June, 1851, or fifth dollars for either. <br>HENRY COMPTON is a copper color – 5 feet 7 or 8 inches high, well formed, about 35 years old. No marks recollected. He has, it is believed, lost one of his front teeth. He was in custody as the property of the late Dr. Greenfield. He has a wife living in Georgetown, D.C., where he was apprehended a few months since.<br>WILLIAM CARTER is about 35 years of age, quite black, about 5 feet, 6 or 7 inches high, and has lost the tips of two of the fingers of his right hand. He was committed as the property of George A. Digges, Esq., who purchased him from William II. Thomas, near Chaptice, St. Mary's county. <br>							JAMES J. CHEW, Sheriff. <br>Upper Marlboro', June 30, 1851. 							iy2-Staw2w]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8737867,38.7855567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lewis Bell, 1853-07-13</name>
+        <description><![CDATA[$100 REWARD,<br>Ranaway from the subscriber living near Upper Marlboro’ prince George’s county, Md., on the 26th of June last,. Negro man LEWIS BELL, aged about 19 years – dark mulatto, about 5 feet 6 inches high – thick and well built – has a pleasant countenance, and a fine set of teeth, which he shows when speaking. He has a mother and father belonging to P.T. Berry in Georgetown D.C. and a wife in Upper Marlboro.’<br>I will give $50 if taken in Prince George’s county or the District of Columbia and $100 if taken elsewhere, in either case to be secured in jail or brought home to me.<br>July 6.<br>ALFRED M. BERRY.]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -76.7500697,38.8157283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anthony Radley (1857-08-25)</name>
+        <description><![CDATA[$700 REWARD- Ran away from the residence of Mr. Owen Carroll, near Beltsville, in Prince George’s county, on Sunday night, August 9th, … negro man ANTHONY, who calls himself Anthony Radley, about six feet tall, strong and well made and rather fleshy, black complexion, short curly hair, especially on the forehead. He has for the last two years been hired to Mr. Batchelor, on the Plank Road. They took a variety of good clothing. <br>(1857-08-25 Balt Sun)]]></description>
+        <styleUrl>#icon-1680-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -76.9074739,39.0348317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Romulus, 1857-07-23
+</name>
+        <description><![CDATA[$300 reward - Ran away from the subscriber, three Negroes, Ben, Bap, and Romulus. Ben, aged about thirty years, copper color, about 5 feet 5 inches high, very stout, has an opening in his front teeth both above and below. Bap, copper color, about 32 years old, about 5 feet 0 inches high, has very thick lips. These two negroes went off in January last, and have been seen about Good Hope, Prince George’s county, and in Washington City and Alexandria. Romulus, black, about forty years old, 5 feet 10 inches high, shows his teeth when spoken to. He went off in March, and is well known in Washington and Georgetown, and has a wife at Mrs. Hutschin’s, St. Mary’s county. <br>I will give $300 for the three, or $100 for each, no matter where taken, if secured in jail or brought home to me. <br>JNO. D. BOWLING,<br>July 23 						Aquasco, Prince George’s County]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.0685724,38.9090907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>John Thomas, 1847-06-01</name>
+        <description><![CDATA[RUNAWAY.- Was committed to the jail of Washington county, as a runaway, a negro man, who calls himself JOHN THOMAS, about five feet five inches high, dark complexion, hair plaited, and wears a goatee; pleasant countenance, and about twenty-seven years of age. He had on a brown cloth coat, black beaver pants, aind red veat; says he belongs to Hugh Perry, of Prince George’s county, Maryland, and was hired to Dr. Mackle, in Georgetown, D.C. The owner of the above described runaway is requested to come and prove his property, pay charges, and take him away, otherwise he will be released according to law.<br>June 1-3t							THOMAS MARTIN, Sheriff]]></description>
+        <styleUrl>#icon-1680-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -77.7062889,39.6278577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jacob, 1842-07-30
+</name>
+        <description><![CDATA[ONE HUNDRED DOLLARS REWARD.—On the 5th instant, my servant JACOB, a slave for life, left home with the avowed intention of going to Londoun county, Virginia, to harvest. I gave him a pass for that purpose. I now have reason to believe that he has made off, perhaps to Pennsylvania. He is very tall, from three to four inches above six feet high; not heavy built, but good size, and very active in his movements; black, very pleasant countenance when spoken to, regular features, and good teeth. I do not recollect any particular marks about him. Is about 22 or 23 years of age, very intelligent, and a good deal of cunning. It is useless to describe his clothing, as he has no doubt procured new clothes, having without a doubt a good supply of money. He may have forged free papers, or procured the free papers of some of his acquaintances. <br>I will give $50 for his apprehension in the State of Maryland, or $100 if taken in Pennsylvania, so that I may get him again.<br>John Harry,<br>Georgetown, D.C.<br>July 30—solm<br>P.S. I wish to hire by the year a servant to supply the place of the above.<br>J.H.]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -77.6536125,39.076767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thomas Joe 1859-11-09</name>
+        <description><![CDATA[$100 Reward<br>Ranaway from the subscriber, living in village of Piscataway, Prince George’s County, Maryland, on Tuesday, the 25th October, negro man JOE, calling himself JOE THOMAS, but will probably assume some other name. He is about five feet eight or ten inches high, and stoutly made; About twenty-eight years old; of a bright mulatto color, wide mouth, and generally wears a moustache. There are no scars or marks on his person, except the right arm, which is much smaller than the other and stiff in the elbow. He is a smart and plausible fellow. Has a mother living in the neighborhood of Bryantown, Charles County, where he was raised, and where perhaps, he may be found lurking. He is well acquainted in Washington City, he having been a laborer in several of the brickyards there. It is probable he endeavor to make his escape to a free State. <br>	For the apprehension of said negro I will give Fifty Dollars, if taken in this or Charles County; Fifty Dollars, if taken in the District of Columbia or any slaveholding State, or any of the upper counties of this State; and One Hundred Dollars if taken in a free State : provided in either case, he be delivered to me or secured so that I get him again.<br>The person who shall receive the above reward will not be paid any reward under the Acts of Assembly.<br>The said runaway may probably be found lurking in the neighborhood of the farm of Capt. Maddox, near Georgetown.<br><br>THOMAS H. HARBIN<br>November 9, 1859—if]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -76.9726051,38.7005402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1840 10-10 Charity Young</name>
+        <description><![CDATA[15 DOLLARS REWARD.- Ran away from the subscriber about a week ago, my woman, Charity, commonly called Charity Ann Young. She is about 19 years old very stout made and black; has a lump on her right or left shoulder about the size of a thumb, large full face and small eyes. Clothing: black silk dress, blue muslin, black and light calico blue and yellow lawn dresses. She may sell or exchange the above for other clothing. Any person taking up or securing the above woman so that I can get her again shall receive the above reward and reasonable expenses. She has been seen in this city and Georgetown.<br><br>							JAMES G. CADLE<br>							Near Piscataway, Maryland]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -76.9725,38.700556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Prince George's County]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8720961,38.7849211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mary Adams, lucy, anthony, nat butler, 08/25/1857
+</name>
+        <description><![CDATA[$700 REWARD - ran away from the residence of Mr. Owen Carroll, near Beltsville, in Prince George’s county, on Sunday August 9th, negro women <br><br>MARY OR MOLLY ADAMS<br><br>Aged about 21 or 22 years, stout,strong built, color black, full faced and short curled hair; walks very straight and quick. Also, <br><br>LUCY <br><br>Ages about 17 years, medium sized, color dark chestnut, very intelligent countenance, and pleasant when spoken to. Also, negro man<br><br>ANTHONY <br><br>Who calls himself Anthony Radley, about 6ft tall, strong, and well made and rather fleshy, black complexion, short curly hair, especially on the forehead. He has for the last two years been hired to Mr. Bachelor, on the Plank Road. They took a variety of good clothing. Also, negro man<br><br>NAT BUTLER <br><br>Who sometimes goes by the name of Joseph or George Brown, who ran away from the same neighborhood about this time last year, and since that time has been lurking in Washington, Georgetown and their vicinity. He is tall. Well made. With a sharp chin, high cheekbones and more prominent nose than common to the negro race.<br><br>The two girls belonged to Owen Carroll, Eq, who offers a reward of 100 dollars each for their apprehension and security in jail, so that they may be obtained again. <br><br>The two men belonged to Dr. James Higginns, and a reward of 250 each would be paid for their arrest and security in jail so that they be obtained again. <br><br>Address Dr JAMES HIGGINS, Baltimore, MD; OWEN CARROLL, Beltsville, Prince Goerge’s County, MD; or JEFFERS & COOK. No 5 Law Buildings, Baltimore.]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8720961,38.7849211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joe Beale, 1855-03-26</name>
+        <description><![CDATA[ONE HUNDRED DOLLARS REWARD. – Ran away, on the 12th instant, a negro man, named JOE BEALE, about thirty-four years of age, stout and well made, nearly six feet hight, has a scar on his upper lip, very black, and wears large whiskers. This man is a good mechanic, and belongs to the estate of the late Sarah M. Washington. When last heard of, he was in Upper Marlboro, Prince George’s county, where he may be now lurking. Joe has relations living in Georgetown, and some in Baltimore. We will give $30 for his apprehension, if taken in Prince George’s county, and the above reward if he is taken out of the said county, or State of Maryland. In either case, he is to be delivered to us or safely lodged in jail, so that I may get him again. <br><br>JOHN H WARING, <br>C.C MAGRUDER,<br>Administrators of Sarah M. Washington.<br>Upper Marlboro, P.G. County, Md.	mh 26 6t<br>[Balt Sun; March 26, 1885]]]></description>
+        <styleUrl>#icon-1680-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -76.7490446,38.8159724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Henry Compton 1851-07-02</name>
+        <description><![CDATA[ONE HUNDRED DOLLAR REWARD. <br>–The above reward will be given for the appre-hension and delivery to me of TWO NEGRO MEN, who escaped from the Jail of Prince George’s county on the 29th of June, 1851, or fifty dollars for either.<br>HENRY COMPTON is a copper color – 5 feet 7 or 8 inches high, well-formed, about 35 years old. No marks recollected. He has, it is believed, lost one of his front teeth. He was in custody as the property of the late Dr. Greenfield. He has a wife living in Georgetown, D.C., where he was apprehended a few months since.<br>WILLIAM CARTER is about 35 yrs age, quite black, about 5 feet, 6 or 7 inches high, and has lost the tips of two of the finger of his right hand. He was committed as the property of George A. Digges, Esq., who purchased him from William II. Thomas, near Chaptien, St. Mary’s county.<br>JAMES J. CHEW, Sheriff.<br>Upper Marlboro’, June 30, 1851.	 iy2-Staw2w.]]></description>
+        <styleUrl>#icon-1680-097138</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8743227,38.7845257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moses, 1840-02-17</name>
+        <description><![CDATA[150 DOLLARS REWARD.- Ranaway, in Maryland my negro man MOSES. He is supposed to be about six feet high, is well proportioned to his height, dark complexion, has a long lower lip, and shows his lower teeth when he laughs; he has a scar on one side of his face, occasioned from a burn when he was small, which scar has a shining, polished appearance. In his usual appearance he is quite humble, polite, and obedient; and, when spoken to by any one he is acquainted with, generally answers with a smile in his countenance. <br>	He left Mr. Sheckelford, in Charlotte Hall, St. Mary’s county, Maryland, to whom he was hired at the time above mentioned, and it is supposed he is now in some of the large cities or in the State of Pennsylvania.<br>	I will give the above reward provided he is confined in the District of Columbia so that I get him again.<br>ANN POSEY,<br>Near Georgetown.<br>Feb 17-wf]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -76.8190326,39.0951842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Isaac Galloway, 1860-01-11</name>
+        <description><![CDATA[100 Reward- ran away from the subscriber on Monday morning, January 2d, Negro Man ISAAC GALLOWAY, a bright mulatto. His height, as near as I can guess; is five feet six, eight, or ten inches; full suit of hair, and very likely when dressed up. He had on when he left me a country suit of Grey Fulled Linsey, but I have no doubt he has changed his clothing. I will give the above reward if taken in the District of Columbia or any of the free States, and $50 if taken in Maryland; in either case to be incurred in jail so that I can get him again, or brought home to me. He has a sister in Georgetown, D.C., belonging to Dr. Grafton Tyler, of that place.<br><br>ABBALOM A. HALL<br>millersville P.O. Anne Arundel county, Md]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -76.6485822,39.0574783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>John Ellis 1846-08-08 </name>
+        <description><![CDATA[$150 REWARD- Ran away from the subscriber, living near Upper Marlborough, Prince George’s county, Maryland, on Saturday, the 1st of August, a negro man, who calls himself John Ellis. He is 22 years of age, copper-colored, and a stout built fellow- clothing not known, as he had a great many. He has a wife at Mrs. McGregor’s, near Marlborough, and a free-brother either in Washington or Georgetown. His mother lives near Palmer’s tavern. <br>I will give $25 if taken in Prince George’s county, $30 if taken in the district of Columbia, $50 if taken in Alexandria, or $150 if taken elsewhere, out of the State of Maryland. In either case to be secured in jail so that I get him again<br><br>Aug 8<br>Jesse Talburtt]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -76.7496909,38.8159473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Miah Green (1859-09-03)</name>
+        <description><![CDATA[Runaway from the subscriber, living near Upper Marlboro, Prince George’s county M.d on the 29th of August, Negro Boy Miah Green, 20 years of age, about 5 feet high, very stout, and largelimbs; wide mouth and broad nose; of copper color. As he went to Washington, he will try to hire himself there or in Georgetown. Where he has relations; or make his way to some free state. I will give $50 if caught in this county or the District of Columbia, and $100 elsewhere. He must be secured so that I may get him again<br>William J. Berry  (1859-09-03)]]></description>
+        <styleUrl>#icon-1680-0F9D58</styleUrl>
+        <Point>
+          <coordinates>
+            -76.7453553,38.8272687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
