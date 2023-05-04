@@ -1,9 +1,11 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-title : "Spotlight"
+id: "second"
+title : "Limitations"
 content: |
-  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
-button: 
-  label: "Learn More"
-  link: "#"
+  Records documenting the lives of these individuals are very scarce. Much evidence of the mere existence of enslaved individuals are business records detailing little more than names and ages. Documents written by enslaved individuals themselves are even rarer still. Due to this silencing in the historical record, runaway advertisements are one of the few avenues that describe particular enslaved individuals in detail at all.
+# This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+button:
+  label: "Next"
+  link: "#third"
 image: "images/spotlight02.jpg"

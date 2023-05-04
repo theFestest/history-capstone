@@ -1,12 +1,12 @@
 ####################### Banner #########################
-style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Hugo Story"
+style: "style2 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "A Closer Look at Runaway Advertisements"
 subtitle: |
-  Hugo Story released for free under the <a target="_blank" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons</a>.
+  HIST099 Capstone project by Michael Bartholic (mwb70@georgetown.edu).
 content : |
-  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
+  In 1838, Maryland Jesuits arranged for the sale of at least 272 enslaved individuals. Georgetown University greatly benefited from the transaction as proceeds were largely used to pay the school's debts. While the truth of this sale is increasingly common knowledge, we have a duty to recognize and remember those individuals sold by the Jesuits for the vibrance of their lives as real human beings. -- In this visualization, I present excerpts from the analysis of dozens of runaway advertisements from the Washington DC region. While not their intent, these adverts offer glimpses of the lives and characteristics of their subjects.
+#  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
 button:
   label : "Get Started"
   link : "#first"
 image : "images/banner.jpg"
-
