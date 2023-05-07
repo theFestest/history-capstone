@@ -11,33 +11,32 @@ items:
   - name : "he"
     content : "Emphasis: recognition of a particular individual including personality, distinguishing features, family details."
     style : "style2 major solid fa-male align-center"
-    image: "images/example.png"
-    thumb: "images/example.png"
+    image: "images/concordance/he.png"
     # button: "view"
 
   # feature item loop
   - name : "his"
     content : "Emphasis: personal details including distinctive features, behaviors, and likely intentions."
     style : "solid style2 major fa-leaf"
-    image: "images/example.png"
+    image: "images/concordance/his.png"
 
   # feature item loop
   - name : "calls himself / herself"
     content : "Emphasis: recognition for the preferred names of these individuals, self determination of their identity"
     style : "solid style2 major fa-chart-bar"
-    image: "images/example.png"
+    image: "images/concordance/calls.png"
 
   # feature item loop
   - name : "has been"
     content : "Emphasis: references to past life events, unique behaviors, habits, and recent activities."
     style : "solid style2 major fa-wifi"
-    image: "images/example.png"
+    image: "images/concordance/been.png"
 
   # feature item loop
   - name : "free"
     content : "Emphasis: description of the thriftiness of the individuals as well as their likely aspirations."
     style : "solid style2 major fa-cog"
-    image: "images/example.png"
+    image: "images/concordance/free.png"
 
   # # feature item loop
   # - name : "clothes"
@@ -48,40 +47,40 @@ items:
   - name : "wears / face"
     content : "Emphasis: acknowledgement of distinct facial features and other unique appearances."
     style : "solid style2 major fa-desktop"
-    image: "images/example.png"
+    image: "images/concordance/wears.png"
 
   # feature item loop
   - name : "she"
     content : "Emphasis: recognition of a particular individual including personality, distinguishing features, family details."
     style : "solid style2 major fa-save"
-    image: "images/example.png"
+    image: "images/concordance/she.png"
 
   # feature item loop
   - name : "her"
     content : "Emphasis: personal details including distinctive features, behaviors, and likely intentions."
     style : "solid style2 major fa-leaf"
-    image: "images/example.png"
+    image: "images/concordance/her.png"
 
   # feature item loop
   - name : "years"
     content : "Emphasis: descriptions of ages and other identifying personal details of these individuals."
     style : "solid style2 major fa-sync-alt"
-    image: "images/example.png"
+    image: "images/concordance/years.png"
 
   # feature item loop
   - name : "brother / sister / child"
     content : "Emphasis: mentions of known family members of these individuals and where they live."
     style : "solid style2 major fa-hashtag"
-    image: "images/example.png"
+    image: "images/concordance/family.png"
 
   # feature item loop
   - name : "feet / inches"
     content : "Emphasis: descriptions of height and physical appearance of these individuals."
     style : "solid style2 major fa-bolt"
-    image: "images/example.png"
+    image: "images/concordance/feet.png"
 
   # feature item loop
   - name : "live / lives"
     content : "Emphasis: details of the existence and whereabouts of family members of these individuals."
     style : "style2 major fa-envelope"
-    image: "images/example.png"
+    image: "images/concordance/live.png"
