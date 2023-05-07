@@ -9,7 +9,7 @@ style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
   - name : "he"
-    content : "Emphasis: recognition of a particular individual including personality, distinguishing features, family details, behaviors."
+    content : "Emphasis: recognition of a particular individual including personality, distinguishing features, family details."
     style : "style2 major solid fa-male align-center"
     image: "images/example.png"
     thumb: "images/example.png"
@@ -29,7 +29,7 @@ items:
 
   # feature item loop
   - name : "has been"
-    content : "Emphasis: references to past life events, unique behaviors, habits."
+    content : "Emphasis: references to past life events, unique behaviors, habits, and recent activities."
     style : "solid style2 major fa-wifi"
     image: "images/example.png"
 
@@ -52,7 +52,7 @@ items:
 
   # feature item loop
   - name : "she"
-    content : "Emphasis: recognition of a particular individual including personality, distinguishing features, family details, behaviors."
+    content : "Emphasis: recognition of a particular individual including personality, distinguishing features, family details."
     style : "solid style2 major fa-save"
     image: "images/example.png"
 
@@ -64,13 +64,13 @@ items:
 
   # feature item loop
   - name : "years"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Emphasis: descriptions of ages and other identifying personal details of these individuals."
     style : "solid style2 major fa-sync-alt"
     image: "images/example.png"
 
   # feature item loop
-  - name : "brother / sister / child / father / mother"
-    content : "Emphasis: mentions of known family members of these individuals."
+  - name : "brother / sister / child"
+    content : "Emphasis: mentions of known family members of these individuals and where they live."
     style : "solid style2 major fa-hashtag"
     image: "images/example.png"
 
@@ -82,6 +82,6 @@ items:
 
   # feature item loop
   - name : "live / lives"
-    content : "Emphasis: details of the existence and whereabouts of family members."
+    content : "Emphasis: details of the existence and whereabouts of family members of these individuals."
     style : "style2 major fa-envelope"
     image: "images/example.png"
