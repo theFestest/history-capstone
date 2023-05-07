@@ -1,66 +1,87 @@
 title : "Highlights"
 id: "highlights"
 content: |
-  While the background and purpose of these advertisements is dehumanizing and disturbing, they offer many details otherwise unseen. By focusing on the human descriptions and individuality conveyed by runaway advertisements one can uncover depictions of the real people who lived and persevered. The following highlights each present a key word and related descriptions excerpted from 65 runaway advertisements from the Georgetown area. Consider how each facet offers additional a highlight of a life otherwise undocumented.
+  While the background and purpose of these advertisements is dehumanizing and disturbing, they offer many details otherwise unseen. By focusing on the human descriptions and individuality conveyed by runaway advertisements one can uncover depictions of these real people who lived and persevered. The following highlights each present a key word and related descriptions excerpted from several dozen runaway advertisements from the Georgetown area. Consider how each facet offers an additional highlight of a life otherwise undocumented.
+# Click on each image for a closer look.
 # This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
 style: "style1 medium onscroll-fade-in"
+# For now, style icons are disabled
 items:
   # feature item loop
-  - name : "\"he\""
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+  - name : "he"
+    content : "Emphasis: recognition of a particular individual including personality, distinguishing features, family details, behaviors."
     style : "style2 major solid fa-male align-center"
+    image: "images/example.png"
+    thumb: "images/example.png"
+    # button: "view"
 
   # feature item loop
-  - name : "Two"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-save"
+  - name : "his"
+    content : "Emphasis: personal details including distinctive features, behaviors, and likely intentions."
+    style : "solid style2 major fa-leaf"
+    image: "images/example.png"
 
   # feature item loop
-  - name : "Three"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+  - name : "calls himself / herself"
+    content : "Emphasis: recognition for the preferred names of these individuals, self determination of their identity"
     style : "solid style2 major fa-chart-bar"
+    image: "images/example.png"
 
   # feature item loop
-  - name : "Four"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+  - name : "has been"
+    content : "Emphasis: references to past life events, unique behaviors, habits."
     style : "solid style2 major fa-wifi"
+    image: "images/example.png"
 
   # feature item loop
-  - name : "Five"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+  - name : "free"
+    content : "Emphasis: description of the thriftiness of the individuals as well as their likely aspirations."
     style : "solid style2 major fa-cog"
+    image: "images/example.png"
+
+  # # feature item loop
+  # - name : "clothes"
+  #   content : "Emphasis: descriptions of their unique clothing and possessions."
+  #   style : "style2 major fa-paper-plane"
 
   # feature item loop
-  - name : "Six"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-paper-plane"
-
-  # feature item loop
-  - name : "Seven"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+  - name : "wears / face"
+    content : "Emphasis: acknowledgement of distinct facial features and other unique appearances."
     style : "solid style2 major fa-desktop"
+    image: "images/example.png"
 
   # feature item loop
-  - name : "Eight"
+  - name : "she"
+    content : "Emphasis: recognition of a particular individual including personality, distinguishing features, family details, behaviors."
+    style : "solid style2 major fa-save"
+    image: "images/example.png"
+
+  # feature item loop
+  - name : "her"
+    content : "Emphasis: personal details including distinctive features, behaviors, and likely intentions."
+    style : "solid style2 major fa-leaf"
+    image: "images/example.png"
+
+  # feature item loop
+  - name : "years"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
     style : "solid style2 major fa-sync-alt"
+    image: "images/example.png"
 
   # feature item loop
-  - name : "Nine"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+  - name : "brother / sister / child / father / mother"
+    content : "Emphasis: mentions of known family members of these individuals."
     style : "solid style2 major fa-hashtag"
+    image: "images/example.png"
 
   # feature item loop
-  - name : "Ten"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+  - name : "feet / inches"
+    content : "Emphasis: descriptions of height and physical appearance of these individuals."
     style : "solid style2 major fa-bolt"
+    image: "images/example.png"
 
   # feature item loop
-  - name : "Eleven"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+  - name : "live / lives"
+    content : "Emphasis: details of the existence and whereabouts of family members."
     style : "style2 major fa-envelope"
-
-  # feature item loop
-  - name : "Twelve"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "solid style2 major fa-leaf"
+    image: "images/example.png"
