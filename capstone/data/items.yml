@@ -4,12 +4,12 @@ content: |
   While the background and purpose of these advertisements is dehumanizing and disturbing, they offer many details otherwise unseen. By focusing on the human descriptions and individuality conveyed by runaway advertisements one can uncover depictions of these real people who lived and persevered. The following highlights each present a key word and related descriptions excerpted from several dozen runaway advertisements from the Georgetown area. Consider how each facet offers an additional highlight of a life otherwise undocumented.
 # Click on each image for a closer look.
 # This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
-style: "style1 medium onscroll-fade-in"
+style: "style1 big onscroll-fade-in"
 # For now, style icons are disabled
 items:
   # feature item loop
   - name : "he"
-    content : "Emphasis: recognition of a particular individual including personality, distinguishing features, family details."
+    content : "Emphasis: recognition of a particular individual including personality, distinguishing features, habits."
     style : "style2 major solid fa-male align-center"
     image: "images/concordance/he.png"
     # button: "view"
@@ -51,7 +51,7 @@ items:
 
   # feature item loop
   - name : "she"
-    content : "Emphasis: recognition of a particular individual including personality, distinguishing features, family details."
+    content : "Emphasis: recognition of a particular individual including personality, distinguishing features, habits."
     style : "solid style2 major fa-save"
     image: "images/concordance/she.png"
 
@@ -68,7 +68,7 @@ items:
     image: "images/concordance/years.png"
 
   # feature item loop
-  - name : "brother / sister / child"
+  - name : "brother / sister / child / father / mother"
     content : "Emphasis: mentions of known family members of these individuals and where they live."
     style : "solid style2 major fa-hashtag"
     image: "images/concordance/family.png"
