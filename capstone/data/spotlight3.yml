@@ -3,7 +3,7 @@ style: "style1 orient-right content-align-left image-position-center onscroll-im
 id: "third"
 title : "Runaway Advertisements"
 content: |
-  Despite these limitations, runaway advertisements are one of the ways we can catch glimpses of the lives of the enslaved. While these adverts were principally intended to spread awareness of escaped slaves amongst the enforcers of chattel slavery, they also offer depictions of the undeniable humanity of the enslaved. Offering descriptions of the enslaved individuals they hoped to locate, these advertisements convey unique personal features and their independent agency inspite of their social status.
+  Despite these limitations, runaway advertisements are one of the ways we can catch glimpses of the lives of the enslaved. While these adverts were principally intended to spread awareness of escaped slaves amongst the enforcers of chattel slavery, they also offer depictions of the undeniable humanity of the enslaved. Presenting descriptions of the enslaved individuals they hoped to locate, these advertisements convey unique personal features and their independent agency despite their social status.
 # And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
 button:
   label: "Next"
