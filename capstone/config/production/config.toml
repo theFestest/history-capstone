@@ -3,7 +3,7 @@
 ## -----------------------------------------------
 
 title = "HIST099 Capstone: A Closer Look at Runaway Advertisements"
-copyright = "{year}"
+copyright = "{2023}"
 
 ## -----------------------------------------------
 ## Publish
@@ -25,7 +25,7 @@ publishDir = "public"
 ## -----------------------------------------------
 
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
-# googleAnalytics = "G-XXXXXXXXXX"
+googleAnalytics = "G-B7S6P11SZD"
 
 ## -----------------------------------------------
 ## Site Parameters
